@@ -1,0 +1,773 @@
+.work__bar {
+    position: absolute;
+    width: 57px;
+    height: 43px;
+    left: 856px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.blog__bar {
+    position: absolute;
+    width: 106px;
+    height: 43px;
+    left: 882px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.contacts__bar {
+    position: absolute;
+    width: 71px;
+    height: 43px;
+    left: 1021px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.introduce {
+    position: absolute;
+    width: 506px;
+    height: 105px;
+    left: 148px;
+    top: 228px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+    /* Dark Color */
+    color: #14151f;
+
+}
+
+.image-Ellipse {
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    left: 760px;
+    top: 210px;
+
+    background: url(image.png);
+}
+
+.summary {
+    position: absolute;
+    width: 497px;
+    height: 66px;
+    left: 148px;
+    top: 373px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+
+}
+
+.download__resume--block {
+    position: absolute;
+    width: 208px;
+    height: 47px;
+    left: 148px;
+    top: 477px;
+
+    /* Primary */
+    background: #FF6464;
+    border-radius: 2px;
+}
+
+.download-words {
+
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 20px;
+    top: 10px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.rectangle-box {
+    position: relative;
+    width: 1152px;
+    height: 396px;
+    top: 595px;
+
+    background: #EDF7FA;
+}
+
+.recent__post {
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 148px;
+    top: 10px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    /* identical to box height, or 273% */
+
+    display: flex;
+    align-items: flex-end;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.view__all {
+    position: absolute;
+    width: 208px;
+    height: 20px;
+    left: 796px;
+    top: 30px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+
+    /* Secondry */
+    color: #00A8CC;
+    cursor: pointer;
+}
+
+.box__left {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 148px;
+    top: 70px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+}
+
+.box__tittle--left {
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 15px;
+    top: 10px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.box__date--left {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 15px;
+    top: 90px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+
+    /* Dark Color */
+    color: #21243D;
+    z-index: 4;
+}
+
+.box__tittle--design {
+    position: absolute;
+    width: 239px;
+    height: 34px;
+    right: -20px;
+    top: 90px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.line__left {
+    position: absolute;
+    width: 0px;
+    height: 21px;
+    left: 150px;
+    top: 89px;
+
+    border: 1px solid #000000;
+}
+
+.box__left--content {
+    position: absolute;
+    width: 368px;
+    height: 117px;
+    left: 15px;
+    top: 150px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.box__right {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    right: 500px;
+    top: 673px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.box__tittle--right {
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 11px;
+    top: 10px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.box__date--right {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 15px;
+    top: 90px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.line__right {
+    position: absolute;
+    width: 0px;
+    height: 21px;
+    left: 140px;
+    top: 91px;
+
+    border: 1px solid #000000;
+}
+
+.box__design--right {
+    position: absolute;
+    width: 239px;
+    height: 34px;
+    left: 170px;
+    top: 90px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.box__content--right {
+    position: absolute;
+    width: 368px;
+    height: 117px;
+    left: 15px;
+    top: 150px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.featured__works {
+    position: absolute;
+    width: 152px;
+    height: 60px;
+    left: 148px;
+    top: 1006px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    /* identical to box height, or 273% */
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.rectangle1__featured--works {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+
+    background: url(image.png);
+    border-radius: 6px;
+}
+
+.featured__works--dashboards {
+    position: absolute;
+    width: 305px;
+    height: 44px;
+    left: 410px;
+    top: 1055px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.rectangle2__featured--works {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1314px;
+
+    background: url(image.png);
+    border-radius: 6px;
+}
+
+.featured__works--illutration {
+    position: absolute;
+    width: 337px;
+    height: 44px;
+    left: 410px;
+    top: 1282px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.rectangle3__featured--works {
+    position: absolute;
+    width: 246px;
+    height: 184px;
+    left: 146px;
+    top: 1560px;
+
+    background: url(image.png);
+    border-radius: 6px;
+}
+
+.featured__works--typography {
+    position: absolute;
+    width: 365px;
+    height: 44px;
+    left: 410px;
+    top: 1530px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.dashboards__2020 {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 420px;
+    top: 1137px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+
+    /* identical to box height, or 333% */
+    background-color: black;
+    border-radius: 40px;
+    border-width: 30%;
+    color: #FFFFFF;
+}
+
+.year__dashboard {
+    position: absolute;
+    top: -17px;
+    left: 4px;
+}
+
+.dashboards__word {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 498px;
+    top: 1137px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    /* Light */
+    color: #8695A4;
+}
+
+.dashboard__content {
+    position: absolute;
+    width: 564px;
+    height: 93px;
+    left: 410px;
+    top: 1199px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.half__line--dashboard {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1283px;
+
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+}
+
+.illutraion__2018 {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 420px;
+    top: 1368px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    /* identical to box height, or 333% */
+    background: #000000;
+    border-radius: 40px;
+    border-width: 30%;
+
+    color: #FFFFFF;
+}
+
+.year__illutration {
+    position: absolute;
+    top: -16px;
+    left: 4px;
+}
+
+.illutration__word {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 498px;
+    top: 1368px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    /* Light */
+    color: #8695A4;
+}
+
+.illutration__content {
+    position: absolute;
+    width: 564px;
+    height: 93px;
+    left: 410px;
+    top: 1419px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.hafl__line--illutration {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1519px;
+
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+}
+
+.typography__2018 {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 420px;
+    top: 1613px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    /* identical to box height, or 333% */
+    background-color: black;
+    border-radius: 40px;
+    border-width: 30%;
+
+    color: #FFFFFF;
+}
+
+.year__typography {
+    position: absolute;
+    position: absolute;
+    top: -16px;
+    left: 4px;
+}
+
+.typography__word {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 498px;
+    top: 1613px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    /* Light */
+    color: #8695A4;
+}
+
+.typography__content {
+    position: absolute;
+    width: 547px;
+    height: 93px;
+    left: 413px;
+    top: 1679px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+    color: #21243D;
+}
+
+.hafl__line--typography {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1766px;
+
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+}
+
+.footer__box {
+    transform: translate(0%, 800%);
+    background: #FFFFFF;
+
+    height: 182px;
+    width: 1152px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background-color: #ffffff;
+
+}
+
+.fb__image {
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: calc(50% - 30px/2 - 102px);
+    top: calc(50% - 30px/2 - 25px);
+
+    /* Dark */
+    background: #ffffff;
+}
+
+.twitter__image {
+    position: absolute;
+    width: 36.92px;
+    height: 30px;
+    left: calc(50% - 36.92px/2 + 31.46px);
+    top: calc(50% - 30px/2 - 25px);
+
+    /* Dark */
+    background: #ffffff;
+}
+
+.linkein__image {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: calc(50% - 30px/2 + 100px);
+    top: calc(50% - 30px/2 - 25px);
+
+    /* Dark */
+    background: #ffffff;
+
+}
+
+.square__shape {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: calc(50% - 30px/2 - 37px);
+    top: calc(50% - 30px/2 - 25px);
+
+    /* Dark */
+    background: #fdfdff;
+}
+
+.circle__image {
+    position: absolute;
+    width: 15.46px;
+    height: 15.46px;
+    left: calc(50% - 15.46px/2 - 37px);
+    top: calc(50% - 15.46px/2 - 25px);
+
+    /* Dark */
+    background: #fcfcfd;
+}
+
+.little__spot {
+    position: absolute;
+    width: 3.9px;
+    height: 3.9px;
+    left: calc(50% - 3.9px/2 - 28.95px);
+    top: calc(50% - 3.9px/2 - 33.03px);
+
+    /* Dark */
+    background: #f6f6f8;
+}
+
+.copyright {
+    position: absolute;
+    height: 21px;
+    left: 40.28%;
+    right: 40.45%;
+    top: calc(50% - 21px/2 + 26.5px);
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+    /* Dark */
+    color: #21243D;
+}
