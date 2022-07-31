@@ -472,7 +472,7 @@
     line-height: 60px;
 
     /* identical to box height, or 333% */
-    background-color: black;
+    background-color:  #142850;
     border-radius: 40px;
     border-width: 30%;
     color: #FFFFFF;
@@ -542,7 +542,7 @@
     font-size: 18px;
     line-height: 60px;
     /* identical to box height, or 333% */
-    background: #000000;
+    background:  #142850;
     border-radius: 40px;
     border-width: 30%;
 
@@ -551,8 +551,8 @@
 
 .year__illutration {
     position: absolute;
-    top: -16px;
-    left: 4px;
+    top: -17.5px;
+    left: 5px;
 }
 
 .illutration__word {
@@ -613,7 +613,8 @@
     font-size: 18px;
     line-height: 60px;
     /* identical to box height, or 333% */
-    background-color: black;
+    background-color: #142850;
+
     border-radius: 40px;
     border-width: 30%;
 
@@ -623,8 +624,8 @@
 .year__typography {
     position: absolute;
     position: absolute;
-    top: -16px;
-    left: 4px;
+    top: -17.5px;
+    left: 5px;
 }
 
 .typography__word {
